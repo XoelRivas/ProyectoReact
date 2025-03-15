@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Dependencias
+
+Estas son las dependencias utilizadas en el proyecto:
+
+- @fortawesome/fontawesome-svg-core@6.7.2
+- @fortawesome/free-solid-svg-icons@6.7.2
+- @fortawesome/react-fontawesome@0.2.2
+- @testing-library/dom@10.4.0
+- @testing-library/jest-dom@6.6.3
+- @testing-library/react@16.2.0
+- @testing-library/user-event@13.5.0
+- react-dom@19.0.0
+- react-scripts@5.0.1
+- react@19.0.0
+- web-vitals@4.2.4
